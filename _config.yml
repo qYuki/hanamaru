@@ -1,7 +1,7 @@
 # Site Settings
 name: Datenshi Minecraft
 title: Datenshi | Bringing the games to everyone's life
-description: Welcome to Datenshi Minecraft pages!
+description: Welcome to Datenshi Minecraft server, come and join us!
 tags:
   - blog
   - minecraft
@@ -9,7 +9,7 @@ tags:
   - block
   - private
   - server
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
