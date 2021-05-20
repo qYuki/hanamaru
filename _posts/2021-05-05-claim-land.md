@@ -3,8 +3,8 @@ date: 2021-05-05 07:14
 layout: post
 title: How to claim land
 description: This is how to claim land
-image: https://cdn.discordapp.com/attachments/728581754398572546/844838286686289931/0gkmyz2wjg441.png
-optimized_image: https://cdn.discordapp.com/attachments/728581754398572546/844838286686289931/0gkmyz2wjg441.png
+image: https://cdn.discordapp.com/attachments/701452257102921738/844879687649722378/tutorial-claim-land.png
+optimized_image: https://cdn.discordapp.com/attachments/701452257102921738/844879687649722378/tutorial-claim-land.png
 category: 'blog'
 ---
 
