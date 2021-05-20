@@ -1,15 +1,15 @@
 # Site Settings
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
-description: Jekflix is a template for Jekyll inspired by Netflix and made by
-  Thiago Rossener.
+name: Datenshi Minecraft
+title: Datenshi | Bringing the games to everyone's life
+description: Welcome to Datenshi Minecraft pages!
 tags:
   - blog
-  - template
-  - jekyll
-  - theme
-  - netlify
-show_hero: true
+  - minecraft
+  - osu!
+  - block
+  - private
+  - server
+show_hero: false
 menu:
   - title: Home
     url: /
@@ -19,29 +19,29 @@ menu:
     url: /contact
   - title: Feed
     url: /feed.xml
-email: youremail@test.com
+email: support@troke.id
 # See: https://disqus.com/
-disqus_username: disqus_username
+disqus_username: troke12
 # Contact Form Setting
 # See: https://formspree.io/
-formspree_form_id: formspree_form_id
+formspree_form_id: 1682190302867095256
 
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: github_username
-facebook_username: facebook_username
-twitter_username: twitter_username
-instagram_username: instagram_username
-linkedin_username: linkedin_username
-medium_username: medium_username
+github_username: osu-datenshi
+facebook_username: datenshicommunity
+#twitter_username: twitter_username
+#instagram_username: instagram_username
+#linkedin_username: linkedin_username
+#medium_username: medium_username
 
 
 # Posts Settings
-show_time_bar: true
+show_time_bar: false
 show_modal_on_exit: false
-show_modal_on_finish_post: true
-two_columns_layout: true
+show_modal_on_finish_post: false
+two_columns_layout: false
 
 
 # Advanced Settings
@@ -61,7 +61,7 @@ collections:
   authors:
     output: true
 paginate_path: "/page/:num/"
-show_get_theme_btn: true
+show_get_theme_btn: false
 use_logo: false
 
 # Content paginator
