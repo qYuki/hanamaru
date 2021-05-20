@@ -30,7 +30,7 @@ Hasil dari penukaran point :
 
 ![votegui4](https://cdn.discordapp.com/attachments/844841824886587412/844969140230160434/2021-05-20_23.50.57.png)
 
-- Klik kanan chest, jangan klik sign nya untuk memulai gacha!
+- Klik kanan chest untuk memulai gacha! ingat jangan diklik signnya, gk muncul
 
 ![votegui5](https://cdn.discordapp.com/attachments/844841824886587412/844969141160902696/2021-05-20_23.50.59.png)
 
