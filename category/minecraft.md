@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Minecraft
-slug: "{{slug}}"
+slug: minecraft
 description: Minecraft categories
 ---
