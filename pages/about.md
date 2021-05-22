@@ -1,17 +1,14 @@
 ---
 layout: page
+menu: false
+date: 2021-05-22 13:21:13
 title: About
-description: Some description.
 permalink: /about/
+description: Datenshi about
 ---
+<img class="img-rounded" src="https://raw.githubusercontent.com/osu-datenshi/assets/master/logo.png" alt="Datenshi Logo" width="200">
 
-<img class="img-rounded" src="/assets/img/uploads/profile.png" alt="Thiago Rossener" width="200">
+**DATENSHI**\
+**Bringing the game to everyone's life**
 
-# About
-
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Welcome to our community, we are based from Indonesia and growing community, we have multi gaming community server between osu! and Minecraft, the main community it was osu! private server who it's the first one in our Country and the sub-community it's Minecraft with Survival Gamemode, Come and Join Us!
