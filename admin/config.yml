@@ -89,6 +89,7 @@ collections:
         name: "paginate"
         widget: "boolean"
         default: false
+        required: false
       - label: "Body"
         name: "body"
         widget: "markdown"
