@@ -9,7 +9,7 @@ tags:
   - block
   - private
   - server
-show_hero: false
+show_hero: true
 menu:
   - title: Home
     url: /
