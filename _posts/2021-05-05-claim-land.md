@@ -5,7 +5,7 @@ title: How to claim land
 description: This is how to claim land
 image: https://cdn.discordapp.com/attachments/701452257102921738/844879687649722378/tutorial-claim-land.png
 optimized_image: https://cdn.discordapp.com/attachments/701452257102921738/844879687649722378/tutorial-claim-land.png
-category: "{{slug}}"
+category: minecraft
 author: troke12
 paginate: true
 ---
