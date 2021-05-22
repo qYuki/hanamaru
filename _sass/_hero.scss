@@ -35,10 +35,10 @@
     position: absolute;
     width: 80%;
     height: 100%;
-    padding-left: 40%;
+    padding-left: 35%;
 
     @include media(">=sm") {
-      width: 50%;
+      width: 100%;
     }
 
     .date {
