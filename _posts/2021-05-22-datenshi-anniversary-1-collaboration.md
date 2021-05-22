@@ -5,7 +5,7 @@ title: "Datenshi Anniversary #1 Collaboration"
 subtitle: osu! collab std for our anniversary
 description: osu! collab std for our anniversary
 image: https://cdn.discordapp.com/attachments/699180921969967145/818844310145204224/unknown.png
-category: "{{slug}}"
+category: osu
 author: troke12
 paginate: false
 ---
