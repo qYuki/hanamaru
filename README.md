@@ -1,28 +1,19 @@
-## Datenshi Minecraft
+## Datenshi Blog
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/30f79fc7-bb2f-4355-9aa9-7c34cd53484c/deploy-status)](https://app.netlify.com/sites/priceless-mccarthy-e8e777/deploys)
+
 Build by Jekyll
 
 Theme by Jekflix (Thiago Rossener)
 
-Hosted in Netify
+Hosted in Netlify
 
-## Cara bikin post baru
-- Ke folder `_post`
-- Create New File
-- Nama file harus `tahun-bulan-tanggal-namapost-yang-akan-ditampilkan.md`
-- Gunakan template ini
-```
----
-date: 2017-07-29 13:24:49 
-layout: post
-title: Smoke alert
-description: Deskripsinya
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559824021/theme12_e0vxlr.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559824021/theme12_e0vxlr.jpg
-subtitle: Bawahnya
-category: 'blog'
-author: troke12
----
-Isi text kalian bebas apa aja disni
-```
-- Gunakan [Markdown Editor Online](https://dillinger.io/)
-- Commit & Push
+## Deskripsi
+
+Website ini digunakan sebagai blog untuk osu! dan minecraft, dikarenakan sebelumnya untuk postingan-postingan mengenai events dan lain-lain hanya ada di Discord dan tidak banyak orang yang menggunakan discord / tenggelam postingannya, maka dibuatkan alternatif.
+
+### Admin konten
+
+Berikut adalah admin yang mengurusi bagian konten :
+
+- [troke12](https://github.com/troke12)
