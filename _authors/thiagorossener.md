@@ -1,15 +1,14 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
-name: thiagorossener
-display_name: Thiago Rossener
-position: Chief Editor
+photo: https://cdn.troke.id/static/osakmj.png
+name: troke
+display_name: I Made Ocy Darma Putra
+position: Owner
 bio: Just a developer.
-github_username: thiagorossener
-facebook_username: thiagorossener
-twitter_username: thiagorossener
-instagram_username: thiagorossener
-linkedin_username: thiagorossener
-medium_username: thiagorossener
+github_username: troke12
+facebook_username: trokee12
+twitter_username: darma.ochi
+instagram_username: troke_ochi
+linkedin_username: troke
+medium_username: ""
 ---
-
