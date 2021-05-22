@@ -9,7 +9,9 @@
 }
 
 footer {
-  @include center(rem(800px));
+  /*@include center(rem(800px));*/
+  width: auto;
+  max-witdh: 100%;
   border-top: 1px solid darken($accentDark, 10%);
   background: $accentDark;
   padding: rem(20px) rem(25px);
@@ -88,7 +90,7 @@ footer {
 
 .main-page {
   footer {
-    background: $primaryDark;
+    background: #1f1b21d9;
     border-top: 1px solid lighten($primaryDark, 10%);
     
     p {
