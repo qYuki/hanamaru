@@ -1,12 +1,13 @@
 ---
-date: 2021-05-20 13:24:49 
+date: 2021-05-20 13:24:49
 layout: post
 title: Tutorial Gacha
 description: Mau dapetin barang-barang keren? yuk simak caranya!
 image: https://cdn.discordapp.com/attachments/844841824886587412/844967343444590623/gacha-crate.png
 optimized_image: https://cdn.discordapp.com/attachments/844841824886587412/844967343444590623/gacha-crate.png
-category: 'blog'
+category: minecraft
 author: troke12
+paginate: true
 ---
 
 ## Items Rewards
