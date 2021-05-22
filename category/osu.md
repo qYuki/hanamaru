@@ -1,6 +1,6 @@
 ---
 layout: category
 title: osu
-slug: "{{slug}}"
+slug: osu
 description: osu! categories
 ---
