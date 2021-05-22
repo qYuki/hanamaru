@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: https://cdn.troke.id/static/osakmj.png
-name: troke
+name: troke12
 display_name: I Made Ocy Darma Putra
 position: Owner
 bio: Just a developer.
