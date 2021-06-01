@@ -27,6 +27,10 @@ Item Last Update : 30-5-2021
 
 **Note: Normal Crate dapat dibuka setelah membeli key pada halaman donasi Datenshi*
 
+## Video Tutorial
+
+<iframe width="560" height="415" src="https://www.youtube.com/embed/zLo7st6Y4c8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Tutorial
 
 * Vote terlebih dahulu [disini](https://link.troke.id/vote-mc) untuk mendapatkan point rewards!
