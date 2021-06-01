@@ -1,6 +1,6 @@
 ---
 layout: page
-menu: false
+menu: true
 date: 2021-06-01 17:32:25
 title: Donations
 permalink: /{{slug}}/
