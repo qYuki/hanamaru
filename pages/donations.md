@@ -3,7 +3,7 @@ layout: page
 menu: true
 date: 2021-06-01 17:32:25
 title: Donations
-permalink: /{{slug}}/
+permalink: /donations/
 description: Donations is help us for keep this server live
 ---
 ![img](https://cdn.discordapp.com/attachments/728581754398572546/849224332621905940/DONATIONS.png)
