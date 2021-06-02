@@ -69,7 +69,7 @@ use_logo: false
 # Content paginator
 paginate_content:
   enabled: true
-  debug: false
+  debug: true
   collections:
     - posts
   auto: false
