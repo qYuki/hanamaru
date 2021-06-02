@@ -7,7 +7,6 @@ image: https://cdn.discordapp.com/attachments/728581754398572546/849604483238723
 optimized_image: https://cdn.discordapp.com/attachments/728581754398572546/849604483238723634/datenshi_shop.png
 category: minecraft
 author: troke12
-paginate: true
 ---
 Disini akan menjelaskan bagaimana cara membuat sebuah shop untuk menjual item kalian kepada player.
 
