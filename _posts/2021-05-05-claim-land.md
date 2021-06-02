@@ -7,7 +7,6 @@ image: https://cdn.discordapp.com/attachments/701452257102921738/844879687649722
 optimized_image: https://cdn.discordapp.com/attachments/701452257102921738/844879687649722378/tutorial-claim-land.png
 category: minecraft
 author: troke12
-paginate: true
 ---
 
 # Claim Land
