@@ -16,7 +16,7 @@
     {% if page.image %}
         {% assign image = page.image %}
     {% else %}
-        {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
+        {% assign image = "https://cdn.discordapp.com/attachments/728581754398572546/849187512689360906/DATENSHI_BANNER.png" | prepend: site.baseurl | prepend: site.url %}
     {% endif %}
 
     {% assign description = '' %}
@@ -56,13 +56,12 @@
 
     <!-- Social: Facebook / Open Graph -->
     <meta property="og:url" content="{{ url }}">
-    <meta property="og:title" content="{{ title }}">
     <meta property="og:image" content="{{ image }}">
     <meta property="og:description" content="{{ description }}">
     <meta property="og:site_name" content="{{ site.title }}">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ site.baseurl }}/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="{{ site.baseurl }}/assets/img/icons/favicon.ico" type="image/x-icon" />
     
     <!-- Apple Touch Icons -->
     <link rel="apple-touch-icon" href="{{ site.baseurl }}/assets/img/icons/apple-touch-icon.png" />
