@@ -24,18 +24,18 @@ Disini akan menjelaskan bagaimana cara membuat sebuah shop untuk menjual item ka
 
 ![](/assets/img/uploads/2021-06-02_18.56.36.png)
 
-   4. Kemudian pilih item kalian yang akan dijual lalu arahkan crosshair kalian ke arah sign dan ketik `/qs create harga_item  `(tidak perlu menggunakan simbol cukup angka)
+4. Kemudian pilih item kalian yang akan dijual lalu arahkan crosshair kalian ke arah sign dan ketik `/qs create harga_item` (tidak perlu menggunakan simbol cukup angka)
 
 ![](/assets/img/uploads/2021-06-02_18.57.11.png)
 
-  5. Setelah dibikin nanti muncul seperti ini, untuk tulisan "Out of Stock" itu tandanya item belum di simpan ke dalam chest.
+5. Setelah dibikin nanti muncul seperti ini, untuk tulisan "Out of Stock" itu tandanya item belum di simpan ke dalam chest.
 
 ![](/assets/img/uploads/2021-06-02_18.57.15.png)
 
-  6. Simpan Item yang mau dijual ke dalam chest
+6. Simpan Item yang mau dijual ke dalam chest
 
 ![](/assets/img/uploads/2021-06-02_18.57.23.png)
 
-  7. Nanti hasilnya akan seperti ini dan pembuatan shop sudah selesai!
+7. Nanti hasilnya akan seperti ini dan pembuatan shop sudah selesai!
 
 ![](/assets/img/uploads/2021-06-02_18.57.27.png)
