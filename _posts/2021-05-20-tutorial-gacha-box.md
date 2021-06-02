@@ -7,7 +7,6 @@ image: https://cdn.discordapp.com/attachments/844841824886587412/844967343444590
 optimized_image: https://cdn.discordapp.com/attachments/844841824886587412/844967343444590623/gacha-crate.png
 category: minecraft
 author: troke12
-paginate: true
 ---
 ## Items Rewards
 
