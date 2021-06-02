@@ -7,7 +7,6 @@ image: https://cdn.discordapp.com/attachments/701452257102921738/844879687536738
 optimized_image: https://cdn.discordapp.com/attachments/701452257102921738/844879687536738304/tutorial-lock-chest.png
 category: minecraft
 author: troke12
-paginate: true
 ---
 
 # Lock Chest
