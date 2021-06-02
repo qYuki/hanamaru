@@ -1,5 +1,5 @@
 ---
-date: 2021-04-01 17:19:40
+date: 2021-03-31 17:00:00
 layout: post
 title: "Datenshi Anniversary #1 Collaboration"
 subtitle: osu! collab std for our anniversary

@@ -1,5 +1,5 @@
 ---
-date: 2021-06-02 20:26:56
+date: 2021-06-02 13:00:00
 layout: post
 title: Tutorial Pembuatan Shop
 subtitle: tata cara membuat sebuah shop untuk item yang akan mau dijual

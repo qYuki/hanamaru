@@ -1,5 +1,5 @@
 ---
-date: 2021-03-27 18:07:51
+date: 2021-03-27 17:00:00
 layout: post
 title: "Datenshi Weekly Challenges #1"
 subtitle: Challenge Mingguan std mania ctb taiko
