@@ -1,11 +1,13 @@
 ---
-date: 2021-06-02 19:05:21
+date: 2021-06-02 20:26:56
 layout: post
 title: Tutorial Pembuatan Shop
 description: tata cara membuat sebuah shop untuk item yang akan mau dijual
 image: https://cdn.discordapp.com/attachments/728581754398572546/849604483238723634/datenshi_shop.png
 optimized_image: https://cdn.discordapp.com/attachments/728581754398572546/849604483238723634/datenshi_shop.png
 category: minecraft
+tags:
+  - tips
 author: troke12
 ---
 Disini akan menjelaskan bagaimana cara membuat sebuah shop untuk menjual item kalian kepada player.
