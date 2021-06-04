@@ -9,23 +9,23 @@ category: osu
 author: troke12
 paginate: false
 ---
-## Explaination
+## Explanation
 
 We are having of much questions about the calculation works, because datenshi it's providing the custom calculation that make we more different, this calculation are still 10:11 with official bancho but there are some modifications that we make, please see below
 
-## PP Penalty
+## PP Rate per Drain Time
 
-This is our custom penalty that make user will increased or decreased the pp they got.
+Our system scales PP gain based on map's drain length. It decreases PP gain for super short maps (low capped at 30 seconds). On the other side, any long maps gain a permanent buff as well.
 
-### Graph
+### PP Penalty Graph
 
 <iframe src="https://www.desmos.com/calculator/qhnxmnor3p?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-### Formulas
+### PP Penalty Formulas
 
 ![image](https://user-images.githubusercontent.com/10250068/120732868-9daa4200-c518-11eb-8643-ec3db6094cd8.png)
 
-### Tables
+### PP Penalty Mapping Table
 
 | ![image](https://user-images.githubusercontent.com/10250068/120732997-e4983780-c518-11eb-837b-0b79b2a5a7e6.png) | ![image](https://user-images.githubusercontent.com/10250068/120733021-f11c9000-c518-11eb-8f84-1f108f14ad07.png) | ![image](https://user-images.githubusercontent.com/10250068/120733060-fed21580-c518-11eb-89b6-24a5f8e18758.png) |
 |---|---|---|
@@ -37,15 +37,11 @@ This is our custom penalty that make user will increased or decreased the pp the
 | 55 | 78.75 | 21.25 |
 | 60 | 100 | 0
 
-## PP Buff System
-
-This system scales your PP gain based on map's drain length. It decreases PP gain for super short maps (low capped at 30 seconds). On the other side, any long maps gain a permanent buff as well.
-
-### Graph
+### PP Buff Graph
 
 <iframe src="https://www.desmos.com/calculator/pnzwphb8y7?embed" width="500" height="500" style="border: 1px solid #ccc" frameborder=0></iframe>
 
-### Tables
+### PP Buff Mapping Table
 
 | ![image](https://user-images.githubusercontent.com/10250068/120732997-e4983780-c518-11eb-837b-0b79b2a5a7e6.png) | ![image](https://user-images.githubusercontent.com/10250068/120733021-f11c9000-c518-11eb-8f84-1f108f14ad07.png) |
 |---|---|
@@ -64,10 +60,10 @@ This system scales your PP gain based on map's drain length. It decreases PP gai
 | 5400 | 134 |
 | 7200 | 140 |
 
-### Taiko PP
+## Taiko PP
 
-Our system use an extra approach to calculate PP on Taiko. We check how hard to comprehend the pattern either with very low or very high scroll speed.
+Our system use an extra approach to calculate PP on Taiko. We check how hard to comprehend the pattern either with very low or very high scroll speed, this also affected by mod usage as well.
 
-### Mania PP
+## Mania PP
 
 We gave extra buff on mania in NC and DT
