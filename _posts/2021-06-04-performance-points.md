@@ -67,3 +67,9 @@ Our system use an extra approach to calculate PP on Taiko. We check how hard to 
 ## Mania PP
 
 We gave extra buff on mania in NC and DT
+
+Tested on map ([Harumaki Gohan - Yakusoku 7.30*](https://osu.ppy.sh/beatmapsets/1258543#mania/2616136))
+
+Both using NC and DT on total score 758.078 
+
+![ss](https://cdn.discordapp.com/attachments/700283326740824086/820960365138411571/unknown.png)
