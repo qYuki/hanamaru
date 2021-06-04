@@ -1,5 +1,5 @@
 ---
-date: 2021-06-03 13:00:00
+date: 2021-06-04 01:00:00
 layout: post
 title: Performance Points
 subtitle: Datenshi Performance Points tables
@@ -36,3 +36,34 @@ This is our custom penalty that make user will increased or decreased the pp the
 | 50 | 60 | 40 |
 | 55 | 78.75 | 21.25 |
 | 60 | 100 | 0
+
+## PP Buff System
+
+This system scales your PP gain based on map's drain length. It decreases PP gain for super short maps (low capped at 30 seconds). On the other side, any long maps gain a permanent buff as well.
+
+### Tables
+
+| ![image](https://user-images.githubusercontent.com/10250068/120732997-e4983780-c518-11eb-837b-0b79b2a5a7e6.png) | ![image](https://user-images.githubusercontent.com/10250068/120733021-f11c9000-c518-11eb-8f84-1f108f14ad07.png) |
+|---|---|
+| 180 | 100 |
+| 240 | 100 |
+| 300 | 100 |
+| 450 | 105 |
+| 600 | 110 |
+| 900 | 113 |
+| 1200 | 116 |
+| 1500 | 119 |
+| 1800 | 122 |
+| 2400 | 124 |
+| 3000 | 126 |
+| 3600 | 128 |
+| 5400 | 134 |
+| 7200 | 140 |
+
+### Taiko PP
+
+Our system use an extra approach to calculate PP on Taiko. We check how hard to comprehend the pattern either with very low or very high scroll speed.
+
+### Mania PP
+
+We gave extra buff on mania in NC and DT
