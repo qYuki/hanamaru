@@ -29,7 +29,7 @@ You want to support datenshi? yeah sure you can, we are appreciate any support f
 will add soon
 
 ### Donations Links
-- [Ko-Fi](https:/ko-fi.com/datenshicommunity/) (International)
+- [Ko-Fi](https://ko-fi.com/datenshicommunity/) (International)
 - [Trakteer.ID](https://trakteer.id/datenshi/) (Indonesia)
 
 ### Confirmations
