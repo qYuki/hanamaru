@@ -60,10 +60,10 @@ Please confirm to this [email](mailto:support@troke.id) or [discord](https://lin
 
 3. Go to `#donate-confirmation` channels
 
-![](https://cdn.discordapp.com/attachments/728581754398572546/851395411150635028/unknown.png)
+![gambardonate](https://cdn.discordapp.com/attachments/728581754398572546/851395411150635028/unknown.png)
 
 4. Screenshot your invoice and send to the channel with mentioning a staff like this
 
-![](https://cdn.discordapp.com/attachments/728581754398572546/851395350170173481/unknown.png)
+![gambarinvoice](https://cdn.discordapp.com/attachments/728581754398572546/851395350170173481/unknown.png)
 
 5. Then wait for the admin give you some perks and enjoy!
