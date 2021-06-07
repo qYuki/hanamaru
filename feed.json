@@ -4,6 +4,7 @@ layout: null
 {
     "code": 200,
     "posts": [{% for post in site.posts limit:10 %}
+              {% assign author = site.authors | where: "name", post.author | first %}
         {
             "id": "{{ post.url | absolute_url }}",
             "url": "https://datensnhi.troke.id{{ post.url | absolute_url }}",
@@ -11,8 +12,8 @@ layout: null
             "content_html": {{ post.description | jsonify }},
             "date_published": "{{ post.date | date_to_xmlschema }}",
             "post_thumbnail": "{{ post.image }}",
-            "post_author": "{{ where: 'display_name', post.author }}",
-            "post_author_url": "{{ post.author.url }}",
+            "post_author": "{{ author.display_name }}",
+            "post_author_url": "{{ author.url }}",
             "wordcount": {{ post.content | number_of_words }}
         }{% unless forloop.last %},{% endunless %}{% endfor %}
     ]
