@@ -54,16 +54,14 @@ Please confirm to this [email](mailto:support@troke.id) or [discord](https://lin
 
 ### Discord Confirmations
 
-1. Go to our [discord](https://link.troke.id/datenshi)!
-
-2. If you dont have any roles, take it on `#get-roles` channels, if you already have the roles, you can skip this step.
-
-3. Go to `#donate-confirmation` channels
+- Go to our [discord](https://link.troke.id/datenshi)!
+- If you dont have any roles, take it on `#get-roles` channels, if you already have the roles, you can skip this step.
+- Go to `#donate-confirmation` channels
 
 ![gambardonate](https://cdn.discordapp.com/attachments/728581754398572546/851395411150635028/unknown.png)
 
-4. Screenshot your invoice and send to the channel with mentioning a staff like this
+- Screenshot your invoice and send to the channel with mentioning a staff like this
 
 ![gambarinvoice](https://cdn.discordapp.com/attachments/728581754398572546/851395350170173481/unknown.png)
 
-5. Then wait for the admin give you some perks and enjoy!
+- Then wait for the admin give you some perks and enjoy!
