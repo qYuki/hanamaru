@@ -14,17 +14,19 @@ You want to support datenshi? yeah sure you can, we are appreciate any support f
 
 ### osu! perks / month
 
-| Name                            | Normal User | Donators |
-| ------------------------------- | ----------- | -------- |
-| Chane Username Unlimited        | No          | Yes      |
-| Change Clan Name Unlimited      | No          | Yes      |
-| RGB Username (Web)              | No          | Yes      |
-| Yellow Username (In-Game)       | No          | Yes      |
-| Clan Background (Leader Only)   | No          | Yes      |
-| Donations Roles (Discord)       | No          | Yes      |
-| Donations Badges (Web)          | No          | Yes      |
-| Access Beatmap Request Channels | No          | Yes      |
-| Access VIP Channels (Discord)   | No          | Yes      |
+#### Donat (IDR 20.000 / $2)
+
+```apex
+- Change Username Unlimited
+- Change Clan Name Unlimited (Leader only)
+- RGB Username (Web)
+- Yellow Username (In-Game)
+- Clan Background (Leader only)
+- Donations Roles (Discord)
+- Donations Badges (Web)
+- Access Beatmap Request Channels (Discord)
+- Access VIP Channels (Discord)
+```
 
 ### Minecraft perks / month
 
@@ -36,7 +38,7 @@ Right now, we have a some perks that we added.
 - Extra chat features
 - Access to /nick command 
 - Increased the amount of /sethome up to 3
-- Increaseed the amount of /rp claim up to 5 claims
+- Increased the amount of /rp claim up to 5 claims
 - Increased the amount of block limits you can claim with /rp claim up to 4500 blocks (before 2700 blocks)
 - Adds $5.000 balance to your account once
 - Gives you a Donat Crate Key & 3 Vote Crate Keys
