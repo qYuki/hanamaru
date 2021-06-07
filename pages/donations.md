@@ -35,7 +35,7 @@ Right now, we have a some perks that we added.
 ```apex
 - Player can use chat color formatting (example: &2Test &fdua) 
 - Access to /nick command 
-- Increase sethome to 2
+- Increase sethome to 3
 - Increase /rp claim to 2 (total 5 claim area)
 - Increase limit rp block to 1800 (total 4500 max limit)
 - Add $5.000 money to your account
