@@ -33,14 +33,13 @@ Right now, we have a some perks that we added.
 #### VIP Rank (IDR 20.000 / $2)
 
 ```apex
-- Player can use chat color formatting (example: &2Test &fdua) 
+- Extra chat features
 - Access to /nick command 
-- Increase sethome to 3
-- Increase /rp claim to 2 (total 5 claim area)
-- Increase limit rp block to 1800 (total 4500 max limit)
-- Add $5.000 money to your account
-- Donat Crate Key 1
-- Vote Crate Key 3
+- Increased the amount of /sethome up to 3
+- Increaseed the amount of /rp claim up to 5 claims
+- Increased the amount of block limits you can claim with /rp claim up to 4500 blocks (before 2700 blocks)
+- Adds $5.000 balance to your account once
+- Gives you a Donat Crate Key & 3 Vote Crate Keys
 ```
 
 ### Donations Links
