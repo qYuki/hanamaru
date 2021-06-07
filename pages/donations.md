@@ -30,11 +30,11 @@ You want to support datenshi? yeah sure you can, we are appreciate any support f
 
 Right now, we have a some perks that we added.
 
-#### VIP Ranks (IDR 20.000 / $2)
+#### VIP Rank (IDR 20.000 / $2)
 
 ```apex
-- Chat Color & Formatting
-- Nick Color
+- Player can use chat color formatting (example: &2Test &fdua) 
+- Access to /nick command 
 - Increase sethome to 2
 - Increase /rp claim to 2 (total 5 claim area)
 - Increase limit rp block to 1800 (total 4500 max limit)
