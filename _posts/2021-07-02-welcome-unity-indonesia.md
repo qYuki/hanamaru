@@ -14,17 +14,18 @@ We are happy to announce that we are doing collaboration with the other communit
 
 Please welcome to "**Unity Indonesia**" the biggest one community in Indonesia who are providing SA-MP and GTA V server 
 
-Some of you maybe know what is SA-MP and GTA V, if you dont know about it, you can search on google. 
+Some of you maybe know what is SA-MP and GTA V, if you dont know about it, SA-MP its a multiplayer client for GTA San Andreas and GTA V using RageMP platform to connect with their server, unlike FiveM, the RageMP has a big optimization in multiplayer client.
 
 So, Unity Indonesia are providing server for both this games who are based in Roleplay, if you are roleplayer this is best for you, here the little information about they are :
-- Discord Invite Link SA-MP: [https://bit.ly/unity-discord](https://bit.ly/unity-discord "https\://bit.ly/unity-discord")
-- Discord Invite Link GTAV: [https://discord.gg/unityrage](https://discord.gg/unityrage "https\://discord.gg/unityrage")
-- Forum: [https://unity-roleplay.org/](https://unity-roleplay.org/ "https\://unity-roleplay.org/")
-- Instagram: [https://bit.ly/urp-instagram](https://bit.ly/urp-instagram "https\://bit.ly/urp-instagram")
-- Kaskus: [https://kask.us/iHCaC](https://kask.us/iHCaC "https\://kask.us/iHCaC")
-- Youtube: [http://bit.ly/urp-yt](http://bit.ly/urp-yt "http\://bit.ly/urp-yt")
-- Steam Group: [http://bit.ly/urp-steam](http://bit.ly/urp-steam "http\://bit.ly/urp-steam")
-- Server Platform : [https://rage.mp/](https://rage.mp/ "https\://rage.mp/") 
+
+* Discord Invite Link SA-MP: [https://bit.ly/unity-discord](https://bit.ly/unity-discord "https\://bit.ly/unity-discord")
+* Discord Invite Link GTAV: [https://discord.gg/unityrage](https://discord.gg/unityrage "https\://discord.gg/unityrage")
+* Forum: [https://unity-roleplay.org/](https://unity-roleplay.org/ "https\://unity-roleplay.org/")
+* Instagram: [https://bit.ly/urp-instagram](https://bit.ly/urp-instagram "https\://bit.ly/urp-instagram")
+* Kaskus: [https://kask.us/iHCaC](https://kask.us/iHCaC "https\://kask.us/iHCaC")
+* Youtube: [http://bit.ly/urp-yt](http://bit.ly/urp-yt "http\://bit.ly/urp-yt")
+* Steam Group: [http://bit.ly/urp-steam](http://bit.ly/urp-steam "http\://bit.ly/urp-steam")
+* Server Platform : [https://rage.mp/](https://rage.mp/ "https\://rage.mp/") 
 
 So what are you waiting for? lets join !
 
