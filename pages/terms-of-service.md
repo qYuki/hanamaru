@@ -32,7 +32,7 @@ By playing on our osu! server, you are agree to follow the guidelines. please re
 - Do not invoke any useless drama.
 - Do not share any illegal links, promote other servers unless you have privileges to do it.
 - Do not spam or badword in any channels or ingame chat.
-- All players must be follow all of the [rules](https://osu.troke.id/doc/rules)!
+- All players must be follow all of the [osu!rules](https://osu.troke.id/doc/rules)!
 
 ### Minecraft
 
