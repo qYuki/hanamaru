@@ -20,9 +20,11 @@ By accessing this Website, accessible from datenshi.troke.id and osu.troke.id, y
 
 \- Datenshi are using Public API that can be gathered from other website.
 
-\- Datenshi is build-in community, not a company.
+\- Datenshi is a build-in community, not a company.
 
 \- All communications from in-game or discord are mostly using Indonesian and English.
+
+\- Do not randomly DM/Ping our staff unless any condition are needed, use ticket support for general support.
 
 \- You must be at least 13 years old to use the All of Service.
 
@@ -30,35 +32,33 @@ By accessing this Website, accessible from datenshi.troke.id and osu.troke.id, y
 
 By playing on our osu! server, you are agree to follow the guidelines. please read carefully.
 
-\- Datenshi player are not prohibited to do any illegal actions!
+\- Datenshi players are prohibited to do any illegal actions!
 
-\- Datenshi player are not prohibited to sell/buy their account.
+\- Datenshi players are prohibited to sell/buy their account.
 
-\- Datenshi player are not prohibited to make multiple account and sharing account.
+\- Datenshi players are prohibited to make multiple account and sharing account.
 
-\- Do not impersonating top player from official server (Bancho).
+\- Do not impersonating any players.
 
-\- Do not making any useless drama.
+\- Do not invoke any useless drama.
 
-\- Do not sharing any illegal links, promote other servers unless you have privileges to do it.
-
-\- Do not dm our staff unless any condition are needed, use ticket support for general support.
+\- Do not share any illegal links, promote other servers unless you have privileges to do it.
 
 \- Do not spam or badword in any channels or ingame chat.
 
-\- All players must be follow the [rules](https://osu.troke.id/doc/rules)!
+\- All players must be follow all of the [rules](https://osu.troke.id/doc/rules)!
 
 ### Minecraft
 
 By playing on our minecraft server, you are agree to follow the guidelines. please read carefully.
 
-\- Griefing and Stealing are not prohibited.
+\- Griefing and Stealing are prohibited.
 
-\- Impersonating any users are not prohibited.
+\- Impersonating any users are prohibited.
 
 \- Do not use any illegal mods that can be used as cheat!
 
-\- Multi-account are not prohibited.
+\- Multi-account are prohibited.
 
 \- Do not sharing any illegal links, promote other servers unless you have privileges to do it.
 
@@ -72,10 +72,10 @@ By playing on our minecraft server, you are agree to follow the guidelines. plea
 
 ### Donate
 
-\- All funds cannot be refunded with any conditions.
+\- We do not refund any donation funds.
 
-\- All funds from donors are used only for pay the server.
+\- All donor funds used for server related costs.
 
 \- By purchasing from Datenshi, does not mean that you are immune from the rules.
 
-\- The donation platform that we use is only on the [donation page](https://datenshi.troke.id/donations/), otherwise we will not be responsible.
+\- We are not responsible for donations that is not done on platform we support.
