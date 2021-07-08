@@ -3,7 +3,7 @@ layout: page
 menu: true
 date: 2021-07-01 08:27:09
 title: Terms of Service
-permalink: /{{slug}}/
+permalink: /tos/
 description: Datenshi Terms of Service
 ---
 ## Terms of Service
