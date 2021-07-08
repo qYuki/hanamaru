@@ -40,9 +40,11 @@ By playing on our osu! server, you are agree to follow the guidelines. please re
 
 \- Do not making any useless drama.
 
+\- Do not sharing any illegal links, promote other servers unless you have privileges to do it.
+
 \- Do not dm our staff unless any condition are needed, use ticket support for general support.
 
-\- Do not spam in any channels or ingame chat.
+\- Do not spam or badword in any channels or ingame chat.
 
 \- All players must be follow the [rules](https://osu.troke.id/doc/rules)!
 
@@ -58,6 +60,16 @@ By playing on our minecraft server, you are agree to follow the guidelines. plea
 
 \- Multi-account are not prohibited.
 
+\- Do not sharing any illegal links, promote other servers unless you have privileges to do it.
+
+\- Do not spam or badword in any channels or ingame chat.
+
+\- All players must be respect each others.
+
+\- Do not make Lag Machine or Chunk ban.
+
+\- Do not Backstabbing and Stealthkill others player.
+
 ### Donate
 
 \- All funds cannot be refunded with any conditions.
@@ -66,4 +78,4 @@ By playing on our minecraft server, you are agree to follow the guidelines. plea
 
 \- By purchasing from Datenshi, does not mean that you are immune from the rules.
 
-\- The donation platform that we use is only on the donation page, otherwise we will not be responsible.
+\- The donation platform that we use is only on the [donation page](https://datenshi.troke.id/donations/), otherwise we will not be responsible.
