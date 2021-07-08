@@ -8,13 +8,13 @@ description: Datenshi Terms of Service
 ---
 ## Terms of Service
 
-By accessing this Website, accessible from datenshi.troke.id and osu.troke.id, you are agreeing to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+By accessing this Website, accessible from datenshi.troke.id and osu.troke.id, you are agreed to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
 
 ### General
 
 - Datenshi is not affiliated with any company (ppy Pty Ltd & Mojang).
 - Some of Datenshi code are open source.
-- Datenshi are not providing any illegal programs.
+- Datenshi does not provide any illegal programs.
 - Datenshi are using Public API that can be gathered from other website.
 - Datenshi is a build-in community, not a company.
 - All communications from in-game or discord are mostly using Indonesian and English.
@@ -28,7 +28,7 @@ By playing on our osu! server, you are agree to follow the guidelines. please re
 - Datenshi players are prohibited to do any illegal actions!
 - Datenshi players are prohibited to sell/buy their account.
 - Datenshi players are prohibited to make multiple account and sharing account.
-- Do not impersonating any players.
+- Do not impersonate any players.
 - Do not invoke any useless drama.
 - Do not share any illegal links, promote other servers unless you have privileges to do it.
 - Do not spam or badword in any channels or ingame chat.
@@ -39,13 +39,13 @@ By playing on our osu! server, you are agree to follow the guidelines. please re
 By playing on our minecraft server, you are agree to follow the guidelines. please read carefully.
 
 - Griefing and Stealing are prohibited.
-- Impersonating any users are prohibited.
+- Do not impersonate any players.
 - Do not use any illegal mods that can be used as cheat!
 - Multi-account are prohibited.
 - Do not share any illegal links, promote other servers unless you have privileges to do it.
 - Do not spam or badword in any channels or ingame chat.
 - All players must be respect each others.
-- Do not make Lag Machine or Chunk ban.
+- Do not make Lag Machine / Chunk ban / Make server lag.
 - Do not Backstabbing and Stealthkill others player.
 
 ### Donate
