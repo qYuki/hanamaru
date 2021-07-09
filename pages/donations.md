@@ -30,7 +30,7 @@ You want to support datenshi? yeah sure you can, we are appreciate any support f
 
 ### Minecraft perks / month
 
-Right now, we have a some perks that we added.
+Currently VIP rank will not have a discord roles, it will added in the next tier list.
 
 #### VIP Rank (IDR 20.000 / $2)
 
@@ -44,25 +44,23 @@ Right now, we have a some perks that we added.
 - Gives you a Donat Crate Key & 3 Vote Crate Keys
 ```
 
-### Donations Links
+### Donation Platforms
+
+Remember that we are not responsible for donations that is not done on platform we support.
 
 * [Ko-Fi](https://ko-fi.com/datenshicommunity/) (International)
 * [Trakteer.ID](https://trakteer.id/datenshi/) (Indonesia)
-
-### Confirmations
-
-Please confirm to this [email](mailto:support@troke.id) or [discord](https://link.troke.id/datenshi) if you already donate. Because right now we are not making any automatic payments, so we need to take manually for this.
 
 ### Discord Confirmations
 
 - Go to our [discord](https://link.troke.id/datenshi)!
 - If you dont have any roles, take it on `#get-roles` channels, if you already have the roles, you can skip this step.
-- Go to `#donate-confirmation` channels
+- Go to `Support` category, and choose osu or minecraft, then make a ticket.
 
-![gambardonate](https://cdn.discordapp.com/attachments/728581754398572546/851395411150635028/unknown.png)
+![gambarcategory](https://cdn.discordapp.com/attachments/728581754398572546/862973943827791872/unknown.png)
 
 - Screenshot your invoice and send to the channel with mentioning a staff like this
 
 ![gambarinvoice](https://cdn.discordapp.com/attachments/728581754398572546/851395350170173481/unknown.png)
 
-- Then wait for the admin give you some perks and enjoy!
+- Then wait for the staff to give you the perks and enjoy!
