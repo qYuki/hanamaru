@@ -7,7 +7,7 @@ layout: null
               {% assign author = site.authors | where: "name", post.author | first %}
         {
             "id": "{{ post.url | absolute_url }}",
-            "url": "https://datensnhi.troke.id{{ post.url | absolute_url }}",
+            "url": "https://datenshi.pw{{ post.url | absolute_url }}",
             "title": {{ post.title | jsonify }},
             "content_html": {{ post.description | jsonify }},
             "date_published": "{{ post.date | date_to_xmlschema }}",
