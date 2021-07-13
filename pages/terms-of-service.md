@@ -41,6 +41,8 @@ By playing on our minecraft server, you are agree to follow the guidelines. plea
 - Griefing and Stealing are prohibited.
 - Do not impersonate any players.
 - Do not use any illegal mods that can be used as cheat!
+- Sell/Buy Items outside server or in-game are prohibited.
+- Sell/Buy Account are prohibited.
 - Multi-account are prohibited.
 - Do not share any illegal links, promote other servers unless you have privileges to do it.
 - Do not spam or badword in any channels or ingame chat.
