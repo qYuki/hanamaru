@@ -40,7 +40,7 @@ Jika kalian ingin melakukan [pendaftaran](https://osu.datenshi.pw/register) guna
 
 ## English
 
-Welcome to the first osu! private server Indonesia! We are here you who dont have any place to take shelter, this is detail about our osu! server :
+Welcome to the first osu! private server Indonesia! We are here for you who dont have any place to take shelter, this is detail about our osu! server :
 
 If you want to [register](https://osu.datenshi.pw/register), use this invite code for registering :
 
