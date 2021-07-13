@@ -22,8 +22,8 @@ tags:
 # osu!Datenshi
 
 ### Language
-- [Indonesia](##indonesia)
-- [English](##english)
+- [Indonesia](#indonesia)
+- [English](#english)
 
 ## Indonesia
 
