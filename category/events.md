@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Events
-slug: event
+slug: events
 description: Events categories
 ---
