@@ -93,6 +93,10 @@ plugins:
   - jekyll-paginate
   - jekyll-paginate-content
   - jekyll-redirect-from
+  
+webrick:
+  headers:
+    Access-Control-Allow-Origin: "*"
 
 # Exclude my node related stuff
 exclude: [
