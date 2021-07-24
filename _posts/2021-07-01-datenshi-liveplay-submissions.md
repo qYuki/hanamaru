@@ -14,11 +14,11 @@ As you know, we are opening new liveplay submissions for foreigner, before that 
 
 ## **Rules**
 
-You can read all of the criteria and rules on this page (<https://osu.troke.id/doc/14>), please read them carefully about the criteria
+You can read all of the criteria and rules on this page (<https://osu.datenshi.pw/doc/14>), please read them carefully about the criteria
 
 ### **Where is the link submissions?**
 
-On the rules and criteria page
+You can submit your liveplay here (<https://forms.gle/rwV18azmt6hfGrCd9>)
 
 
 
