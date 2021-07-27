@@ -2,7 +2,7 @@
 layout: author
 photo: https://a.datenshi.pw/2
 name: troke12
-display_name: I Made Ocy Darma Putra
+display_name: troke
 position: Owner
 bio: Just a developer.
 github_username: troke12
