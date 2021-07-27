@@ -3,7 +3,7 @@ layout: null
 ---
 {
     "code": 200,
-    "posts": [{% for post in site.posts limit:100 %}
+    "posts": [{% for post in site.posts limit:4 %}
               {% assign author = site.authors | where: "name", post.author | first %}
         {
             "id": "{{ post.url | absolute_url }}",
