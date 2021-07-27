@@ -12,7 +12,11 @@ layout: null
             "content_html": {{ post.description | jsonify }},
             "date_published": "{{ post.date | date_to_xmlschema }}",
             "category": "{{ post.category }}",
+            {% if post.image %}
             "post_thumbnail": "{{ post.image }}",
+            {% else %}
+            "post_thumbnail": "https://datenshi.pw/assets/img/off.jpg",
+            {% endif %}
             "post_author": "{{ author.display_name }}",
             "post_author_url": "{{ author.url }}",
             "wordcount": {{ post.content | number_of_words }}
