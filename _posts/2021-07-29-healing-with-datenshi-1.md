@@ -1,5 +1,5 @@
 ---
-date: 2021-07-29 07:53:32
+date: 2021-07-28 22:55:32
 layout: post
 title: "Healing with Datenshi #1"
 subtitle: an event for osu!mania players hosted by @God Of Horny
