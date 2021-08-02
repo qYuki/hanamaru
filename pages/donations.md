@@ -41,7 +41,6 @@ Remember that we are not responsible for donations that is not done on platform 
 - Go to our [discord](https://link.troke.id/datenshi)!
 - If you dont have any roles, take it on `#get-roles` channels, if you already have the roles, you can skip this step.
 - Go to channel `#donate-confirmation`
-
 - Screenshot your invoice and send to the channel with mentioning a staff like this
 
 ![gambarinvoice](https://cdn.discordapp.com/attachments/728581754398572546/851395350170173481/unknown.png)
