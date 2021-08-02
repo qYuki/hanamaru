@@ -28,36 +28,19 @@ You want to support datenshi? yeah sure you can, we are appreciate any support f
 - Access VIP Channels (Discord)
 ```
 
-### Minecraft perks / month
-
-Currently VIP rank will not have a discord roles, it will added in the next tier list.
-
-#### VIP Rank (IDR 20.000 / $2)
-
-```apex
-- Extra chat features
-- Access to /nick command 
-- Increased the amount of /sethome up to 3
-- Increased the amount of /rp claim up to 5 claims
-- Increased the amount of block limits you can claim with /rp claim up to 4500 blocks (before 2700 blocks)
-- Adds $5.000 balance to your account once
-- Gives you a Donat Crate Key & 3 Vote Crate Keys
-```
-
-### Donation Platforms
+### Donation platforms
 
 Remember that we are not responsible for donations that is not done on platform we support.
 
-* [Ko-Fi](https://ko-fi.com/datenshicommunity/) (International)
-* [Trakteer.ID](https://trakteer.id/datenshi/) (Indonesia)
+* [Ko-Fi](https://ko-fi.com/datenshicommunity/) (International) (PayPal)
+* [Trakteer.ID](https://trakteer.id/datenshi/) (Indonesia) (GoPay, OVO, DANA, ShopeePay, Bank Transfer, LinkAja)
+* [Minecraft](https://mc.datenshi.pw/shop) (Minecraft Datenshi Store) (PayPal)
 
-### Discord Confirmations
+### How to confirm your donation
 
 - Go to our [discord](https://link.troke.id/datenshi)!
 - If you dont have any roles, take it on `#get-roles` channels, if you already have the roles, you can skip this step.
-- Go to `Support` category, and choose osu or minecraft, then make a ticket.
-
-![gambarcategory](https://cdn.discordapp.com/attachments/728581754398572546/862973943827791872/unknown.png)
+- Go to channel `#donate-confirmation`
 
 - Screenshot your invoice and send to the channel with mentioning a staff like this
 
