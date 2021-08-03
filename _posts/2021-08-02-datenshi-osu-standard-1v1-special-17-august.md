@@ -8,6 +8,12 @@ category: osu
 author: troke12
 paginate: false
 ---
+![logoZ](https://cdn.discordapp.com/attachments/870876065550204958/871925331290906664/osumini.png)
+
+| Discord | Spreadsheet | Twitch | Youtube | Website |
+|---|---|:-:|---|---|
+| [Link](https://datenshi.pw/discord)  | [Link](https://comingsoon.com)  | [Link](https://twitch.tv/trokearts) | [Linkl](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://osu.datenshi.pw)  |
+
 ![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
 
 - 1v1
