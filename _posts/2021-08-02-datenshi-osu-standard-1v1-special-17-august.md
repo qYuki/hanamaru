@@ -75,8 +75,9 @@ If you want to register as staff, please contact troke on discord
 - Host : [troke](https://osu.datenshi.pw/u/2)
 - GFX : [troke](https://osu.datenshi.pw/u/2)
 - Streamer : [troke](https://osu.datenshi.pw/u/2)
-- Referee :
+- Referees :
   - [Amamiya Kokoro](https://osu.datenshi.pw/u/305)
   - [Minato Aqua](https://osu.datenshi.pw/u/60)
   - [Hoshimachi Suisei](https://osu.datenshi.pw/u/71?mode=0)
-
+  - [troke](https://osu.datenshi.pw/u/2)
+- Comentator : -
