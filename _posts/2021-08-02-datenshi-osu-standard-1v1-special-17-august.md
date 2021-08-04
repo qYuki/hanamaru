@@ -11,7 +11,7 @@ paginate: false
 ![logoZ](https://cdn.discordapp.com/attachments/870876065550204958/871925331290906664/osumini.png)
 
 | Discord | Mappools | Twitch | Youtube | Registration | Bracket |
-|---|---|:-:|---|---|
+|---|---|:-:|---|---|---|
 | [Link](https://datenshi.pw/discord)  | [Link](https://docs.google.com/spreadsheets/d/1yahybpydOLcO7pAqcCLW_IVetOw_IG8sT0yYcqTImFo/edit?usp=sharing)  | [Link](https://twitch.tv/trokearts) | [Link](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) | Coming Soon |
 
 ![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
