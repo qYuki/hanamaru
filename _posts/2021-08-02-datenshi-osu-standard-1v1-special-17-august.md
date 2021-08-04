@@ -12,7 +12,7 @@ paginate: false
 
 | Discord | Mappools | Twitch | Youtube | Registration |
 |---|---|:-:|---|---|
-| [Link](https://datenshi.pw/discord)  | [Link](https://docs.google.com/spreadsheets/d/1yahybpydOLcO7pAqcCLW_IVetOw_IG8sT0yYcqTImFo/edit?usp=sharing)  | [Link](https://twitch.tv/trokearts) | [Linkl](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) |
+| [Link](https://datenshi.pw/discord)  | [Link](https://docs.google.com/spreadsheets/d/1yahybpydOLcO7pAqcCLW_IVetOw_IG8sT0yYcqTImFo/edit?usp=sharing)  | [Link](https://twitch.tv/trokearts) | [Link](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) |
 
 ![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
 
@@ -77,5 +77,5 @@ If you want to register as staff, please contact troke on discord
 - Referee :
   - [Amamiya Kokoro](https://osu.datenshi.pw/u/305)
   - [Minato Aqua](https://osu.datenshi.pw/u/60)
-  - [Kamisato Ayaka](https://osu.datenshi.pw/u/71?mode=0)
+  - [Hoshimachi Suisei](https://osu.datenshi.pw/u/71?mode=0)
 
