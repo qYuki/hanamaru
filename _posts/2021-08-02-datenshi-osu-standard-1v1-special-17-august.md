@@ -17,10 +17,11 @@ paginate: false
 ![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
 
 - 1v1 with Single Elimination
-- All players must be have Datenshi Account for 1 months+
+- Have a datenshi account that is more than 1 month old
 - Roll winner will have chance for first pick and first ban
 - No doublebanning and No doublepicking except NM
 - All players will be shuffled by randomly in the bracket
+- No country restriction for this tournament
 - Bracket Stage will have the following format : 
    - RO16 & Quarterfinals: 1 Ban
    - Semifinals & Final: 2 Bans
