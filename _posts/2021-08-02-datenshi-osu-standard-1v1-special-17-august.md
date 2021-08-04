@@ -10,16 +10,16 @@ paginate: false
 ---
 ![logoZ](https://cdn.discordapp.com/attachments/870876065550204958/871925331290906664/osumini.png)
 
-| Discord | Spreadsheet | Twitch | Youtube | Website |
+| Discord | Mappools | Twitch | Youtube | Registration |
 |---|---|:-:|---|---|
-| [Link](https://datenshi.pw/discord)  | [Link](https://comingsoon.com)  | [Link](https://twitch.tv/trokearts) | [Linkl](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://osu.datenshi.pw)  |
+| [Link](https://datenshi.pw/discord)  | [Link](https://docs.google.com/spreadsheets/d/1yahybpydOLcO7pAqcCLW_IVetOw_IG8sT0yYcqTImFo/edit?usp=sharing)  | [Link](https://twitch.tv/trokearts) | [Linkl](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) |
 
 ![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
 
-- 1v1
+- 1v1 with Single Elimination
 - All players must be have Datenshi Account for 1 months+
 - Roll winner will have chance for first pick and first ban
-- No doublebanning and No doublepicking
+- No doublebanning and No doublepicking except NM
 - All players will be shuffled by randomly in the bracket
 - Bracket Stage will have the following format : 
    - RO16 & Quarterfinals: 1 Ban
