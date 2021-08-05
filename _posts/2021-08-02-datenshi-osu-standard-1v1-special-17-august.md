@@ -20,6 +20,7 @@ paginate: false
 
 - 1v1 with Single Elimination
 - Have a datenshi account that is more than 1 month old
+- Your account must have 1Kpp before registration
 - Roll winner will have chance for first pick and first ban
 - No doublebanning and No doublepicking except NM
 - All players will be shuffled by randomly in the bracket
@@ -75,16 +76,13 @@ Sponsors are welcome, please contact `troke.id#0027`
 If you want to register as staff, please contact troke on discord
 
 - Host : [troke](https://osu.datenshi.pw/u/2)
-
 - Streamer : [troke](https://osu.datenshi.pw/u/2)
 - Mappool Selector :
   - [Minato Aqua](https://osu.datenshi.pw/u/60)
   - [Hoshimachi Suisei](https://osu.datenshi.pw/u/71?mode=0)
 - Referees :
   - [troke](https://osu.datenshi.pw/u/2)
-
   - [Amamiya Kokoro](https://osu.datenshi.pw/u/305)
   - [Minato Aqua](https://osu.datenshi.pw/u/60)
   - [Hoshimachi Suisei](https://osu.datenshi.pw/u/71?mode=0)
-
 - Comentator : -
