@@ -10,7 +10,7 @@ category: osu
 author: troke12
 paginate: false
 ---
-![logoZ](https://cdn.discordapp.com/attachments/870876065550204958/871925331290906664/osumini.png)
+![logoZ](https://cdn.discordapp.com/attachments/838776586060300329/872819562708598834/17_Agustus_Minecraft.jpg)
 
 | Discord | Mappools | Twitch | Youtube | Registration | Bracket |
 |---|---|:-:|---|---|---|
