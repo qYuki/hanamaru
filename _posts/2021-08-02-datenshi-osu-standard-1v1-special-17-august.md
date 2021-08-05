@@ -4,6 +4,8 @@ layout: post
 title: Datenshi osu!standard 1v1 (Special 17 August)
 subtitle: The mini tournament for osu!standard
 description: The mini tournament for osu!standard
+image: https://cdn.discordapp.com/attachments/838776586060300329/872487240209694770/17_Agustus_1920x1080.jpg
+optimized_image: https://cdn.discordapp.com/attachments/838776586060300329/872487240209694770/17_Agustus_1920x1080.jpg
 category: osu
 author: troke12
 paginate: false
@@ -12,7 +14,7 @@ paginate: false
 
 | Discord | Mappools | Twitch | Youtube | Registration | Bracket |
 |---|---|:-:|---|---|---|
-| [Link](https://datenshi.pw/discord)  | Coming Soon  | [Link](https://twitch.tv/trokearts) | [Link](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) | [Link](https://challonge.com/datenshi17std) |
+| [Link](https://datenshi.pw/discord)  | [Link](https://docs.google.com/spreadsheets/d/1yahybpydOLcO7pAqcCLW_IVetOw_IG8sT0yYcqTImFo/edit?usp=sharing)  | [Link](https://twitch.tv/datenshicommunity) | [Link](https://www.youtube.com/channel/UCKwyGpWAD17sVpKwlRDhisw) | [Link](https://forms.gle/qMxrWGBNt8moTaYm8) | [Link](https://challonge.com/datenshi17std) |
 
 ![tldr](https://cdn.discordapp.com/attachments/870876065550204958/871781929706487858/TLDR.png)
 
@@ -73,14 +75,16 @@ Sponsors are welcome, please contact `troke.id#0027`
 If you want to register as staff, please contact troke on discord
 
 - Host : [troke](https://osu.datenshi.pw/u/2)
-- GFX : [troke](https://osu.datenshi.pw/u/2)
+
 - Streamer : [troke](https://osu.datenshi.pw/u/2)
 - Mappool Selector :
   - [Minato Aqua](https://osu.datenshi.pw/u/60)
   - [Hoshimachi Suisei](https://osu.datenshi.pw/u/71?mode=0)
 - Referees :
+  - [troke](https://osu.datenshi.pw/u/2)
+
   - [Amamiya Kokoro](https://osu.datenshi.pw/u/305)
   - [Minato Aqua](https://osu.datenshi.pw/u/60)
   - [Hoshimachi Suisei](https://osu.datenshi.pw/u/71?mode=0)
-  - [troke](https://osu.datenshi.pw/u/2)
+
 - Comentator : -
