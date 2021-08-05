@@ -1,5 +1,5 @@
 ---
-date: 2021-08-02 23:51:06
+date: 2021-08-04 23:51:06
 layout: post
 title: Datenshi osu!standard 1v1 (Special 17 August)
 subtitle: The mini tournament for osu!standard
