@@ -1,7 +1,7 @@
 ---
 date: 2021-09-30 00:00:00
 layout: post
-title: Healing with Datenshi #3
+title: "Healing with Datenshi #3"
 subtitle: Monthly event from god of horny for mania
 description: Monthly event from god of horny for mania
 image: https://cdn.discordapp.com/attachments/822801409266286612/893148519928569866/Copy_of_osumini.png
