@@ -8,7 +8,7 @@ description: Datenshi Terms of Service
 ---
 ## Terms of Service
 
-By accessing this Website, accessible from datenshi.troke.id and osu.troke.id, you are agreed to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
+By accessing this Website, accessible from datenshi.pw, osu.datenshi.pw and mc.datenshi.pw, you are agreed to be bound by these Website Terms and Conditions of Use and agree that you are responsible for the agreement with any applicable local laws. If you disagree with any of these terms, you are prohibited from accessing this site. The materials contained in this Website are protected by copyright and trade mark law.
 
 ### General
 
@@ -32,7 +32,7 @@ By playing on our osu! server, you are agree to follow the guidelines. please re
 - Do not invoke any useless drama.
 - Do not share any illegal links, promote other servers unless you have privileges to do it.
 - Do not spam or badword in any channels or ingame chat.
-- All players must be follow all of the [osu!rules](https://osu.troke.id/doc/rules)!
+- All players must be follow all of the [osu!rules](https://osu.datenshi.pw/doc/rules)!
 
 ### Minecraft
 
