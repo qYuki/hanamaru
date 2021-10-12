@@ -18,8 +18,8 @@ paginate: false
 ---
 Hello, we are introducing some extra measurement for Taiko PP in here, while waiting for the long-awaited non morth-esque PP.
 
-* Reading Map: At most 140BPM or At least 210BPM.
-* Reflex Map: 160BPM or higher (Actual bonus starts from 240BPM)
+* Reading Map: At most 140BPM ~~or At least 210BPM~~.
+* Reflex Map: 160BPM or higher. (Actual bonus starts from 240BPM)
 
 Please take a note that those values are based on the map scroll values. For example, **__A super slow map__ will have HD heavy buff and HR penalty** instead. However, for **__maps that scrolls very quick__, they will have both high HD and HR buffs**.
 
@@ -27,6 +27,8 @@ Also, some recent addition in order to normalize the "Top PP" across modes, Mort
 
 So, what are you waiting for?
 
-## PP Recalculations
+## Reconsiderations
 
-PP currently showed (ETA up to 25.00 GMT+7) is after overbuffed recalculation, so please try to not to play the map until past 25 o'clock. Thanks.
+### HD mod buffed too high.
+
+Hence why reading map now focused for any maps under 140BPM. Otherwise HD will overpower HR on high scroll maps. Tested now on 210BPM main where HR buffed hard than HD, but 140BPM main have HR nerfed even than NM. This balance is considered to punish HR usage over slow maps.
