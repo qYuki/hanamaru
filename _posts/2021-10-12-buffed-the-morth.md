@@ -26,3 +26,7 @@ Please take a note that those values are based on the map scroll values. For exa
 Also, some recent addition in order to normalize the "Top PP" across modes, Morth Taiko PP now buffed for any maps beyond 3-stars. Also noting that maps beyond 7-stars now yield **double the worth** of what it should be. *Except, it's not a linear gain.*
 
 So, what are you waiting for?
+
+## PP Recalculations
+
+PP currently showed (ETA up to 25.00 GMT+7) is after overbuffed recalculation, so please try to not to play the map until past 25 o'clock. Thanks.
