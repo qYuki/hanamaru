@@ -32,3 +32,9 @@ So, what are you waiting for?
 ### HD mod buffed too high.
 
 Hence why reading map now focused for any maps under 140BPM. Otherwise HD will overpower HR on high scroll maps. Tested now on 210BPM main where HR buffed hard than HD, but 140BPM main have HR nerfed even than NM. This balance is considered to punish HR usage over slow maps.
+
+### "Repetition" Adjustment
+Nerfs the penalty towards repetition. This also affect star rating internally. So for any star rating-based achievement on Taiko, please consult to the developers regarding for this. We will try to make it updated.
+
+### EM can be a better mod than NM
+Easy so far being punished for leniency of timing window, yet it's a thing where using Easy can obscure the sense of hitting the notes. Tested upon certain 95BPM map, EM now yields better than NM. It's not an easy thing to adjust with HR though.
