@@ -6,7 +6,7 @@ subtitle: Monthly event from god of horny for mania
 description: Monthly event from god of horny for mania
 image: https://cdn.discordapp.com/attachments/822801409266286612/902697348856156230/Copy_of_halloween2021.png
 category: events
-author: troke12
+author: fajar13k
 paginate: false
 ---
 
