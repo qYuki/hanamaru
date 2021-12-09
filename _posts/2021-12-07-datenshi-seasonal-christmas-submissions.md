@@ -1,5 +1,5 @@
 ---
-date: 2021-12-07 12:30:26
+date: 2021-12-06 12:30:26
 layout: post
 title: Datenshi Seasonal Christmas Submissions
 subtitle: Another event for datenshi seasonal background with christmas theme
