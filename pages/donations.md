@@ -40,9 +40,13 @@ Remember that we are not responsible for donations that is not done on platform 
 
 - Go to our [discord](https://link.troke.id/datenshi)!
 - If you dont have any roles, take it on `#get-roles` channels, if you already have the roles, you can skip this step.
-- Go to channel `#donate-confirmation`
+- Go to channel `#osu-support`
+- Then click `osu ticket`
+
+![gambarticket](https://cdn.discordapp.com/attachments/874910377937354763/929718414669410324/unknown.png)
+
 - Screenshot your invoice and send to the channel with mentioning a staff like this
 
-![gambarinvoice](https://cdn.discordapp.com/attachments/728581754398572546/851395350170173481/unknown.png)
+![gambarinvoicez](https://cdn.discordapp.com/attachments/874910377937354763/929721890140987472/unknown.png)
 
 - Then wait for the staff to give you the perks and enjoy!
