@@ -13,13 +13,13 @@ paginate: false
 Good morning tenshi-tachi! so we want to announce new staff that has been qualified and already in trial mode, but today it's officialy they joined as datenshi staff, here are some of our new staff list!
 
 ## Minecraft Division
-- @Moyaa as Mod
-- @!Edwin Shelby | Work as Mod
+- @Mwoya as Mod
+- @Edwin_Shelby as Mod
 
 ## osu! Division
-- @Rimusu replacing @!【◈Ari Knight◈】! as Moderator
-- @Momo as Whitelist Staff Support
-- @God Of Horny | Ping if needed ;)  as Whitelist Staff Support
+- @Rimusu replacing @[ Ari Knight ] as Moderator
+- @Eilaluth as Whitelist Staff Support
+- @GOD_OF_HORNY  as Whitelist Staff Support
 
 
 Once again welcome and enjoy your duty! 
