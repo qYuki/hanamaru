@@ -29,9 +29,9 @@ tags:
 
 Selamat datang di osu! private server pertama di Indonesia! Kami disini ada untuk kalian yang tidak memiliki tempat untuk bernaung, berikut ini adalah detail server kami:
 
-Jika kalian ingin melakukan [pendaftaran](https://osu.datenshi.pw/register) gunakanlah invite code ini untuk mendaftar :
+Jika kalian ingin melakukan [pendaftaran](https://osu.datenshi.pw/register) silahkan tekan link dibawah untuk mendapatkan invite code :
 
-`DATENSHIPUBLIC2021`
+[Invite Code](https://osu.ppy.sh/users/3133671)
 
 ### Pertanyaan
 
@@ -42,9 +42,9 @@ Jika kalian ingin melakukan [pendaftaran](https://osu.datenshi.pw/register) guna
 
 Welcome to the first osu! private server Indonesia! We are here for you who dont have any place to take shelter, this is detail about our osu! server :
 
-If you want to [register](https://osu.datenshi.pw/register), use this invite code for registering :
+If you want to [register](https://osu.datenshi.pw/register), please click the link below to get the invite code :
 
-`DATENSHIPUBLIC2021`
+[Invite Code](https://osu.ppy.sh/users/3133671)
 
 ### FAQ
 
