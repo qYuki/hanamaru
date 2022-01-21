@@ -31,7 +31,7 @@ Selamat datang di osu! private server pertama di Indonesia! Kami disini ada untu
 
 Jika kalian ingin melakukan [pendaftaran](https://osu.datenshi.pw/register) silahkan tekan link dibawah untuk mendapatkan invite code :
 
-[Invite Code](https://osu.ppy.sh/users/3133671)
+[Invite Code](https://osu.ppy.sh/users/3133671) di userpagenya troke
 
 ### Pertanyaan
 
@@ -44,7 +44,7 @@ Welcome to the first osu! private server Indonesia! We are here for you who dont
 
 If you want to [register](https://osu.datenshi.pw/register), please click the link below to get the invite code :
 
-[Invite Code](https://osu.ppy.sh/users/3133671)
+[Invite Code](https://osu.ppy.sh/users/3133671) on troke's userpage
 
 ### FAQ
 
