@@ -73,7 +73,12 @@ List of current open positions :
    * Be able to check latest maps status from Bancho on Datenshi.
    * Be able to check latest ranking submission in Datenshi Admin Panel for everyday.
    * 4 Month of your osu!Datenshi Account.
-8. **Designer** requirements:
+8. **Whitelist Staff (osu!)** requirements:
+
+   * Working in time that has been scheduled (#osu-support) in Discord.
+   * Handle tickets for unlocking limit players.
+   * Required Language(s): English
+9. **Designer** requirements:
 
    * Have Canva account.
    * Have minimalist design thinking.
