@@ -29,12 +29,13 @@ List of current open positions :
    * Must have Discord, osu!, Minecraft, Facebook, Youtube or any other social media accounts.
    * Have a many ideas for event planning and reports.
    * Good mental attitude.
-   * Required language(s) : Bahasa Indonesia and English.
+   * Required language(s) : English and Bahasa Indonesia.
 2. **Backend Developers** requirements:
 
    * Strong in problem solving skill.
    * Experience in Git, Github, Gitlab or any software version controls.
    * Experience in web programming API (such as RESTful, json, grcp, API gateway, etc)
+   * Experience in Golang, NodeJS, Python, Ruby and C++/C#
    * Able to work with minimal supervision.
 3. **Frontend Developers** requirements:
 
