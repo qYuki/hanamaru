@@ -49,14 +49,19 @@ List of current open positions :
    * Experience in Python, Termux, Bash Scripting
    * Experience in mysql database, redis, sonic search
    * Experience in PHP Native or Laravel
-5. **Administrator (osu!)** requirements:
+5. **Minecraft Developers** requirements:
+
+   * Experience using Pterodactyl Panel
+   * Experience in Java it's a plus
+   * Experience in many plugins
+6. **Administrator (osu!)** requirements:
 
    * Have a strong experienced in osu! for any aspect.
    * Experience in osu! private server.
    * Knowing about latest updates from Official Bancho server.
-   * 7 month of your osu!Datenshi Account.
+   * 3 month of your osu!Datenshi Account.
    * Required Language(s) : English and Bahasa Indonesia
-6. **Administrator (Minecraft)** requirements:
+7. **Administrator (Minecraft)** requirements:
 
    * Have a strong experienced in Minecraft for any aspect.
    * Knowing the guidelines for the server.
@@ -64,22 +69,22 @@ List of current open positions :
    * Be able to make copy-writing in Website and Discord.
    * Knowing about plugins command for security such as CoreProtect, WordEdit, WorldGuard.
    * 19 years old+
-   * 5 month of your Minecraft Datenshi Account.
+   * 3 month of your Minecraft Datenshi Account.
    * Required Language(s): English and Bahasa Indonesia.
-7. **Beatmap Nominators** requirements:
+8. **Beatmap Nominators** requirements:
 
    * Knowing about our current beatmaps ranking procedure.
    * Have at least 1 Ranked maps or Ranked Difficulty in Bancho.
    * Be able to check latest maps status from Bancho on Datenshi.
    * Be able to check latest ranking submission in Datenshi Admin Panel for everyday.
-   * 4 Month of your osu!Datenshi Account.
-8. **Whitelist Staff (osu!)** requirements:
+   * 1 Month of your osu!Datenshi Account.
+9. **Whitelist Staff (osu!)** requirements:
 
    * Working in time that has been scheduled (#osu-support) in Discord.
    * Handle tickets for unlocking limit players.
    * Required Language(s): English
-9. **Designer** requirements:
+10. **Designer** requirements:
 
-   * Have Canva account.
-   * Have minimalist design thinking.
-   * Have flexible time to design what we need.
+    * Have Canva account.
+    * Have minimalist design thinking.
+    * Have flexible time to design what we need.
