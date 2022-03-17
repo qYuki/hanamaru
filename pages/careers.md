@@ -75,7 +75,7 @@ List of current open positions :
 8. **Beatmap Nominators** requirements:
 
    * Knowing about our current beatmaps ranking procedure.
-   * Have at least 1 Ranked maps or Ranked Difficulty in Bancho.
+   * Have at least 5 beatmaps in Bancho.
    * Be able to check latest maps status from Bancho on Datenshi.
    * Be able to check latest ranking submission in Datenshi Admin Panel for everyday.
    * 1 Month of your osu!Datenshi Account.
