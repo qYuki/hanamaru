@@ -36,5 +36,5 @@ To celebrating our 2nd Anniversary, we are going to make video that all players 
 
 ## Vote
 
-<div style="font:11px arial; color:gray; text-align:center" class="OPP-linkBack"><a style="text-decoration:none;" href="https://www.easypolls.net">online polls</a></div><script type='text/javascript' src='https://vote.easypolls.net/em.js' data-id='623aa74ae6e9100060c2cfae' data-width="100%" data-height="300px"></script>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLScJVsXdV9wQa3lh1OC2v__qO9otA9gWdF8v9VdUzMMonTA9QQ/viewform?embedded=true" width="640" height="613" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
