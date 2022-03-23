@@ -18,7 +18,7 @@ paginate: false
 ---
 Hello tenshi-tachi!
 
-To celebrating our 2nd Anniversary, we are going to make video that all players playing in one map, so we currently need you to vote what map should be featured, the deadline will be on **26 March 2022**.
+To celebrating our 2nd Anniversary, we are going to make video that all players playing in one map, so we currently need you to vote what map should be featured, the deadline will be on **30 March 2022**.
 
 Here the lists :
 - [NIJISANJI - Virtual to Live [Colorful]](https://osu.ppy.sh/beatmapsets/1024346#osu/2142659)
