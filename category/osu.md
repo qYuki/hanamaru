@@ -1,6 +1,6 @@
 ---
 layout: category
-title: osu
-slug: osu
-description: osu! categories
+title: League of Legends
+slug: lol
+description: League of Legends categories
 ---
