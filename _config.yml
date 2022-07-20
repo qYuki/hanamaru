@@ -1,6 +1,6 @@
 # Site Settings
-name: DATENSHI
-title: DATENSHI
+name: FALLENKINGS
+title: FALLENKINGS
 description: Welcome to our community, we are based from Indonesia and growing community, we have multi gaming community server between osu! and Minecraft, the main community it was osu! private server who it’s the first one in our Country and the sub-community it’s Minecraft with Survival Gamemode, Come and Join Us!
 tags:
   - blog
@@ -20,7 +20,7 @@ menu:
   - title: Feed
     url: /feed.xml
   - title: Discord
-    url: https://link.troke.id/datenshi
+    url: https://discord.gg/mKBVX2P2Vg
 email: support@troke.id
 # See: https://disqus.com/
 disqus_username: troke12
@@ -31,8 +31,8 @@ formspree_form_id: 1682190302867095256
 
 # Social Media Settings
 # Remove the item if you don't need it
-github_username: osu-datenshi
-facebook_username: datenshicommunity
+github_username: qYuki
+#facebook_username: datenshicommunity
 #twitter_username: twitter_username
 #instagram_username: instagram_username
 #linkedin_username: linkedin_username
