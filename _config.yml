@@ -17,6 +17,8 @@ menu:
     url: /about
 #  - title: Contact
 #    url: /contact
+  - title: Team Members
+    url: /staff
   - title: Feed
     url: /feed.xml
   - title: Discord
