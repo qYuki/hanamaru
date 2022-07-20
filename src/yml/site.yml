@@ -1,5 +1,6 @@
-name: Jekflix
-title: Jekflix | A blog theme for Jekyll
+formspree_form_id: formspree_form_id
+name: FallenKings
+title: Climb to the top is our priority!
 description: Jekflix is a template for Jekyll inspired by Netflix and made by
   Thiago Rossener.
 tags:
@@ -19,8 +20,4 @@ menu:
   - title: Feed
     url: /feed.xml
 email: youremail@test.com
-# See: https://disqus.com/
 disqus_username: disqus_username
-# Contact Form Setting
-# See: https://formspree.io/
-formspree_form_id: formspree_form_id
