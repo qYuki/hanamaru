@@ -1,7 +1,8 @@
 ---
 layout: author
-photo: /assets/img/uploads/chamasmug.png
-name: Momoka
-display_name: Sakurai Momoka
-bio: A cute idol.
+photo: /assets/img/uploads/codita.png
+name: Codita a.k.a PacaTosuFanJesus
+display_name: Codita a.k.a PacaTosuFanJesus
+position: MIddle
+bio: " "
 ---
