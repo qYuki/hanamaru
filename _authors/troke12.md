@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/chokomint.png
 name: Kyow
 display_name: Kyow
-position: Owner
+position: TOP
 bio: Just a developer.
 github_username: qYuki
 facebook_username: "-"
