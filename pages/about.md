@@ -8,7 +8,7 @@ description: FallenKings about
 tags:
   - fallenkings
 ---
-<img class="img-squared" src="https://cdn.discordapp.com/attachments/303892489440460800/999027769046470656/unknown.png" alt="Datenshi Logo" width="200">
+<img class="img-squared" src="https://cdn.discordapp.com/attachments/303892489440460800/999027769046470656/unknown.png" alt="FallenKings Logo" width="200">
 
 **FALLENKINGS**\
 **A new generation of League of Legends Romanian Team**
