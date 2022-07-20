@@ -2,7 +2,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2552fb96-0979-41df-8533-d14da141273d/deploy-status)](https://app.netlify.com/sites/fallenkings/deploys)
 
-Build by Jekyll
+Build by Kyow
 
 Theme by Jekflix (Thiago Rossener)
 
